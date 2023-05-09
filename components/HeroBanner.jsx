@@ -14,12 +14,12 @@ const HeroBanner = () => {
         </div>
 
         <div>
-            <Link href='/problems/ID'>
+            <Link href="/problems/ID">
                 <button type="button">Learn more</button>
                 
             </Link>
             <div className="desc">
-                <h5>Who is a "hair on fire" customer?</h5>
+                <h5>Who is a &lsquo;hair on fire&rsquo; customer?</h5>
                 <p>Urgent and frustrated customer who is in desperate need of a solution to problem.</p>
             </div>
         </div>
