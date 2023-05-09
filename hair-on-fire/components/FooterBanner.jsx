@@ -6,18 +6,18 @@ const FooterBanner = () => {
     <div className = "footer-banner-container">
       <div className='banner-desc'>
         <div className='left'>
-          <p>paragraph</p>
-          <h3>h3-1</h3>
-          <h3>h3-2</h3>
-          <p>p2</p>
+          <p>Do you have any suggestions for this site?</p>
+          <h3>Reach out to us!</h3>
+          <h3>Contact:</h3>
+          <p>example@email.com</p>
         </div>
 
         <div className='right'>
-          <p>paragraph</p>
-          <h3>h3-1</h3>
-          <p>p2</p>
+          <p>Check out my Twitter!</p>
+          <h3>Thanks!</h3>
+          <p></p>
           <Link href={'https://twitter.com/tomaszsorobka'}>
-            <button type='button'>zobacz moj twitter</button>
+            <button type='button'>My Twitter</button>
           </Link>
         </div>
 

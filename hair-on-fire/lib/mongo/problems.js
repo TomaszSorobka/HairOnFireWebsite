@@ -26,7 +26,7 @@ export async function getProblems() {
         if (!problems) await init()
         const result = await problems
             .find({})
-            .limit(40)
+            .limit(95)
             .map(user => ({ ...user, _id: user._id.toString()}))
             .toArray()
         return {problems:result}
