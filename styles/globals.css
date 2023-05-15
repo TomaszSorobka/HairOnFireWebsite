@@ -245,6 +245,22 @@ margin-bottom: 25px;
   font-size: 16px;
   font-weight: 200;
 }
+
+.aboutme-heading{
+  text-align: center;
+  margin: 40px 0px;
+ color: #324d67;
+
+}
+.aboutme-heading h2{
+  font-size: 40px;
+  font-weight: 800;
+}
+.aboutme-heading p{
+  font-size: 16px;
+  font-weight: 200;
+}
+
 .footer-banner-container{
   padding: 100px 40px;
   background-color: #ff8c3b;

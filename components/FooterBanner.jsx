@@ -9,7 +9,7 @@ const FooterBanner = () => {
           <p>Do you have any suggestions for this site?</p>
           <h3>Reach out to us!</h3>
           <h3>Contact:</h3>
-          <p>example@email.com</p>
+          <p>tomek.sorobka@gmail.com</p>
         </div>
 
         <div className='right'>
