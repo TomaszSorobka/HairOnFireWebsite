@@ -5,7 +5,7 @@ import { getProblems } from '@lib/mongo/problems'
 async function fetchProblems() {
   const {problems} = await getProblems()
   if (!problems) throw new Error('Failed to fetch problems')
-  return problems
+  return problems.reverse();
 }
 
 const Home = ({problems}) => (
