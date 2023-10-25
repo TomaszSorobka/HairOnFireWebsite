@@ -7,7 +7,10 @@ let links = {
     'education':'https://cdn-icons-png.flaticon.com/512/3778/3778120.png',
     'videoediting':'https://cdn-icons-png.flaticon.com/512/6979/6979672.png',
     'entrepreneurship': 'https://cdn-icons-png.flaticon.com/512/5225/5225015.png',
-    'entrepreneur': 'https://cdn-icons-png.flaticon.com/512/5225/5225015.png'
+    'entrepreneur': 'https://cdn-icons-png.flaticon.com/512/5225/5225015.png',
+    'chatgpt': 'https://img.icons8.com/?size=256&id=fO5yVwARGUEB&format=png',
+    'fatfire': 'https://styles.redditmedia.com/t5_3hqta/styles/communityIcon_c46gar6cisc61.png?width=256&s=6b34b810627b2b3c49d4d753c681ce851e1c8e7e',
+    'csmajors': 'https://img.icons8.com/?size=50&id=60719&format=png'
 }
 
 
