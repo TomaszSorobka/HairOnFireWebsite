@@ -812,3 +812,21 @@ margin-top: 160px;
   margin: auto;
 }
 }
+
+
+/* Mobile styles */
+@media screen and (max-width: 1000px) {
+  .hero-banner-container {
+    flex-direction: column; /* stack children vertically */
+  }
+
+  .hero-banner-image {
+    max-width: 100%; /* ensure the image doesn't exceed the screen width */
+    margin: 10px 0; /* add some spacing */
+    display:none;
+  }
+
+  .desc {
+    margin-top: 20px; /* add some spacing between button and description */
+  }
+}
